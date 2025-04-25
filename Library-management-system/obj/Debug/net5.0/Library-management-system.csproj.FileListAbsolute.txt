@@ -1,0 +1,16 @@
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.csproj.AssemblyReference.cache
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.AssemblyInfoInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.AssemblyInfo.cs
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.csproj.CoreCompileInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.exe
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.deps.json
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.runtimeconfig.json
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.runtimeconfig.dev.json
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.dll
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\ref\Library-management-system.dll
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\bin\Debug\net5.0\Library-management-system.pdb
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.dll
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\ref\Library-management-system.dll
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.pdb
+C:\Users\AshikhaMylsamy\source\repos\Library-management-system\Library-management-system\obj\Debug\net5.0\Library-management-system.genruntimeconfig.cache
